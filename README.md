@@ -1,19 +1,39 @@
-# Captain Planet Game
+# Captain Planet: The Game
+
+Welcome to Captain Planet: The Game! This simple web-based game allows you to interact with Captain Planet using various superpowers. Enjoy the nostalgic Captain Planet theme song and explore different features such as resizing, moving, visibility controls, and a new superpower - rotate!
 
 ## Instructions
 
-* Create a new superpower for Captain Planet using jQuery.
+1. **Play Theme Song:**
+   - Click the "Play Theme!" button to enjoy the Captain Planet theme song.
+   - Use the "Pause Song" button to stop the music.
 
-  * Look at the [jQuery API documents](https://api.jquery.com/) if you get stuck 
-  
-* Examples:
-  * Click to… Stretch Captain Planet!
-  * Click to… Trigger a maniacal laugh!
-  * Click to… Create clones of Captain Planet!
-  * Click to… Create fire or water (hint: images)!
+2. **Superpowers - Change Sizes:**
+   - Click "Normal" to set Captain Planet to the default size (300px).
+   - Click "Grow" to make Captain Planet grow (500px).
+   - Click "Shrink" to make Captain Planet shrink (100px).
 
-* Slack out a screenshot of the working example.
+3. **Superpowers - Invisibility:**
+   - Click "Visible" to make Captain Planet visible.
+   - Click "Invisible" to make Captain Planet partially invisible.
 
----
+4. **Move Controls:**
+   - Use the arrow buttons to move Captain Planet in different directions.
+   - Click "Go Planet!" to quickly return Captain Planet to a default position.
 
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+5. **New Superpower - Rotate:**
+   - Click the "Rotate" button to make Captain Planet rotate.
+   - Each click increases the rotation angle, allowing for multiple rotations.
+
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone [repository_url]
+2. Open index.html in your web browser.
+3. Explore the superpowers and have fun with Captain Planet!
+
+## Technologies
+- HTML
+- CSS (Bootstrap for styling)
+- JavaScript (jQuery for DOM manipulation)
